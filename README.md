@@ -21,7 +21,7 @@ This is a simple currency converter application that allows users to convert bet
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/nandini2727/currency-converter.git
    ```
 2. Open the project folder.
 3. Open `index.html` in your web browser.
