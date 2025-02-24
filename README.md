@@ -36,11 +36,3 @@ This is a simple currency converter application that allows users to convert bet
 ## API Integration
 
 This project fetches real-time exchange rates from [ExchangeRate-API](https://www.exchangerate-api.com/) (or any other chosen API). Ensure you have an API key and update the script accordingly.
-
-## Example API Usage
-
-```javascript
-fetch(`https://v6.exchangerate-api.com/v6/YOUR_API_KEY/latest/USD`)
-  .then(response => response.json())
-  .then(data => console.log(data.conversion_rates));
-```
